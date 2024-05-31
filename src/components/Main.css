@@ -1,0 +1,25 @@
+main {
+    padding: 20px;
+    background: #f8f8f8;
+    color: #333;
+}
+
+article {
+    background: #fff;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin-bottom: 20px; /* Added bottom margin for spacing between posts */
+}
+
+article img {
+    max-width: 100%; /* Ensures the image does not exceed the container width */
+    height: auto;
+    margin-top: 10px;
+    border-radius: 8px; /* Optional: adds rounded corners to the image */
+}
+
+hr {
+    margin-top: 20px; /* Spacing before the horizontal rule */
+}
